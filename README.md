@@ -1,11 +1,9 @@
 # Introduction
 
 From the practice challenge hosted at: *https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/*
-
+Dream Housing Finance company deals in all types of home loans. They have presence across all urban, semi urban and rural areas. Customers first apply for home loan after which the company validates the customers' eligibility for loan.
 
 ## Problem Statement
-
-Dream Housing Finance company deals in all types of home loans. They have presence across all urban, semi urban and rural areas. Customers first apply for home loan after which the company validates the customers' eligibility for loan.
 
 The company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
 
